@@ -12,4 +12,4 @@
 - **Entworfen am:** 18.12.2023
 - **Empfohlene Punktzahl:** 100
 - **Idee:** Die gesuchte Flag ist schon verschwunden. Nur Zeitreisende können die Challenge lösen.
-- **Flag:** `flag{habe-ich-jetzt-das-internet-gelöscht?}`
+- **Flag:** *\*zensiert*\*
